@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Potenza-Winery/static/css/main.65df8818.css",
+    "main.js": "/Potenza-Winery/static/js/main.5d150ddd.js",
+    "static/media/d.jpg": "/Potenza-Winery/static/media/d.cf75cbf4d2d34f87813c.jpg",
+    "static/media/imgi_1_logo.png": "/Potenza-Winery/static/media/imgi_1_logo.c2b7bcf6830637c0ffe9.png",
+    "static/media/imgi_2_product-11.jpg": "/Potenza-Winery/static/media/imgi_2_product-11.a987562846dbad2ab0b1.jpg",
+    "static/media/imgi_6_product-15.jpg": "/Potenza-Winery/static/media/imgi_6_product-15.d369de884ee3253a7829.jpg",
+    "static/media/imgi_4_product-13.jpg": "/Potenza-Winery/static/media/imgi_4_product-13.ba820d275f7113cb71e8.jpg",
+    "index.html": "/Potenza-Winery/index.html",
+    "main.65df8818.css.map": "/Potenza-Winery/static/css/main.65df8818.css.map",
+    "main.5d150ddd.js.map": "/Potenza-Winery/static/js/main.5d150ddd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65df8818.css",
+    "static/js/main.5d150ddd.js"
+  ]
+}

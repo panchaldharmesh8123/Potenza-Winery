@@ -13,6 +13,7 @@ import {
   Users,
   MessageCircle,
   ChevronDown,
+  Instagram,
   Play,
 } from "lucide-react";
 
@@ -124,6 +125,11 @@ Please provide pricing and delivery details. Thank you!
       message
     )}`;
     window.open(whatsappUrl, "_blank");
+  };
+ const handleInstaContact = () => {
+    const instagramUrl = `https://www.instagram.com/potenzawinery?igsh=MWlxZ3RpcGZiamllZw==`;
+    
+    window.open(instagramUrl, "_blank");
   };
 
   const scrollToSection = (sectionId) => {
@@ -553,6 +559,17 @@ Please provide pricing and delivery details. Thank you!
               <p className="footer-note">
                 Available for orders and inquiries across all Indian states.
               </p>
+              <button
+                onClick={handleInstaContact}
+                className="btn"
+                style={{
+                  background:
+                    "linear-gradient(90deg, #f9ce34 0%, #ee2a7b 50%, #6228d7 100%)",
+                }}
+              >
+                <Instagram className="btn-icon" />
+                Instagram
+              </button>
             </div>
           </div>
           <div className="footer-bottom">

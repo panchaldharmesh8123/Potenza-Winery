@@ -28,7 +28,7 @@
 
 | Frontend     | Styling         | Icons          | Hosting        |
 |--------------|------------------|----------------|----------------|
-| React.js     | Bootstrap CSS     | Lucide Icons   | Vercel         |
+| React.js     | Bootstrap CSS     | Lucide Icons   | Vercel,netlify|
 
 ---
 

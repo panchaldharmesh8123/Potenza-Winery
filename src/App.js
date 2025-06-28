@@ -12,7 +12,6 @@ import {
   Award,
   Users,
   MessageCircle,
-  ChevronDown,
   Instagram,
   Play,
 } from "lucide-react";
